@@ -1,0 +1,6 @@
+,rf_pred,rf_grid_pred
+accuracy,0.95,0.96
+precision,0.96,0.97
+recall,0.89,0.91
+f_measure,0.92,0.94
+r2,0.97,0.98
